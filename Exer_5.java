@@ -13,7 +13,7 @@ public class Exer_5 {
 			stringInvertida += s.charAt(i);
 		}
 		System.out.println(stringInvertida);
-
+	sc.close();
 
     }
 }
